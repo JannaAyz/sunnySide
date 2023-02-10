@@ -340,6 +340,7 @@ h1 {
 }
 .text_corner h2, #fourthPart h3 {
     font-size: clamp(24px, 8vw, 60px);
+    margin-top: 10%;
 }
 .text_corner a, #bckg_cherries > p, #bckg_clementine > p {
     font-size: clamp(20px, 4vw, 40px);
